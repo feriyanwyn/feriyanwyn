@@ -1,96 +1,96 @@
-## Hi there 👋
-
-<!--
-**feriyanwyn/feriyanwyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="left">📈 GitHub Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feriyanwyn&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
-
-<!--
-   README Profile untuk GitHub: feriyanwyn
-   Kamu bisa ubah bagian "About Me", skill, proyek, kontak sesuai profil nyata kamu.
--->
+<!-- Animated & Interactive GitHub Profile README -->
+<!-- Designed for: github.com/feriyanwyn -->
 
 <div align="center">
-  <h1>Hi, I’m Feriyan 👋</h1>
-  <p>Software Developer | Web Enthusiast | Lifelong Learner</p>
+
+# 👋 Hi, I'm <span style="color:#00e6e6;">Feriyan</span>  
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to My Digital Space!
+
 </div>
 
 ---
 
-## 🧰 About Me
+<div align="center">
+  
+### 🔥 *“Code. Create. Inspire.”*  
 
-- 🔭 Currently working on: **Web Development Projects** & **Open-Source Contributions**  
-- 🌱 Learning: React, Node.js, and Modern Web Architecture  
-- 💬 Ask me about: JavaScript, REST APIs, CI/CD  
-- 📫 How to reach me: See **Contact** section below  
-- ⚡ Fun fact: I love building side projects and automating things
+🌟 **Software Developer | Web Dev Enthusiast | Tech Explorer**  
+✨ Passionate about modern JavaScript, cloud systems, and clean architecture.
 
----
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-## 🛠️ Skills & Tools
-
-| Frontend | Backend | DevOps / Tools |
-|---|---|---|
-| React, Vue, HTML, CSS, JavaScript | Node.js, Express, MySQL | Git, Docker, GitHub Actions |
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Tech Arsenal
 
-<!-- Kamu bisa gunakan badge GitHub-stats di sini: misalnya melalui GitHub Readme Stats -->
-[![Feriyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=feriyanwyn&show_icons=true&theme=radical)](https://github.com/feriyanwyn)
+<div align="center">
 
----
+### **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1E4C68?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🚀 Featured Projects
+### **Tools & Platforms**
+![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-e94e1b?style=for-the-badge&logo=postman&logoColor=white)
 
-- **[Project A](https://github.com/feriyanwyn/project-a)** — Deskripsi singkat tentang apa yang kamu buat, teknologi yang dipakai, dan mengapa menarik.  
-- **[Project B](https://github.com/feriyanwyn/project-b)** — Contoh project lain dengan highlight yang berbeda.  
-- **[Project C](https://github.com/feriyanwyn/project-c)** — Project yang menunjukkan kemampuan kolaborasi, open-source, atau skala besar.
-
----
-
-## 📚 Blog / Learning
-
-Saya suka menulis atau mendokumentasikan hal-hal yang saya pelajari. Kalau kamu tertarik, cek:  
-- [Blog Pribadi / Artikel Teknis (jika punya)](https://yourblog.com)  
-- [LinkedIn Profile](https://www.linkedin.com/in/feriyanwyn)  
+</div>
 
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Analytics (Animated)
 
-Feel free to reach out!  
-- 📧 Email: `email.kamu@example.com`  
-- 💼 LinkedIn: [feriyanwyn](https://www.linkedin.com/in/feriyanwyn)  
-- 💬 Twitter / Instagram: `@username_anda` *(jika ada)*  
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=feriyanwyn&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=feriyanwyn&theme=tokyonight&hide_border=true" height="180px"/>
 
-## ✨ Fun / Personal Touch
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=feriyanwyn&theme=react-dark&hide_border=true&area=true"/>
 
-- 📅 Saya berkomitmen untuk belajar sesuatu yang baru setiap minggu.  
-- 🎮 Hobi: Main game strategi, baca buku teknologi, dan eksplorasi framework baru.  
-- 🎯 Motivasi: Membuat impact melalui kode + open-source.
+</div>
 
 ---
 
-Thank you for visiting my profile! 🙌  
-Let’s build something amazing together.
+## 🌐 Connect With Me
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+</div>
+
+---
+
+## 🛠 Featured Projects
+
+### 🐔 **Chicken Detection & Tracking (AI + CV)**  
+📌 Vision-based detection system using YOLO / OpenCV.  
+➡️ *Repo coming soon…*
+
+### 🌐 **Modern Web App Starter**  
+📌 Full-stack template built with React + Node.js  
+➡️ https://github.com/feriyanwyn
+
+---
+
+## ✨ Fun Facts
+- 🚀 I love building automation tools for fun  
+- 🎮 I enjoy strategy games and puzzle solving  
+- 📚 Learning something new every single week  
+
+---
+
+<div align="center">
+
+## ⭐ If you like my work, consider giving a star!
+
+<img src="https://media.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif" width="300"/>
+
+</div>
