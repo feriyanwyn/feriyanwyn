@@ -61,8 +61,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/friyannda/)
+[![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feriyanekananda@gmail.com)
 
 </div>
 
